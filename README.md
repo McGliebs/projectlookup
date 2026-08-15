@@ -19,8 +19,7 @@ to do anything in this repo.
 ### Get the app
 
 Download the latest installer from the **[Releases](../../releases/latest)**
-page and run `GDS Helper.exe`. No Python or other install is required — the
-configuration files are created next to the executable on first use.
+page and run `GDS Helper.exe`.
 
 ### First launch — connect Duffel
 
@@ -64,9 +63,7 @@ não precisa de fazer nada aqui.
 ### Obter a aplicação
 
 Descarregue o instalador mais recente na página de
-**[Releases](../../releases/latest)** e execute `GDS Helper.exe`. Não é preciso
-instalar Python nem nada — os ficheiros de configuração são criados ao lado do
-executável na primeira utilização.
+**[Releases](../../releases/latest)** e execute `GDS Helper.exe`.
 
 ### Primeira abertura — ligar à Duffel
 
