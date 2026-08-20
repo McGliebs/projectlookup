@@ -54,6 +54,31 @@ You can set the token up later from **⚙ Settings → Configure Duffel API**.
 
 Each download's integrity is verified (SHA-256) before it is installed.
 
+### Licence
+
+GDS Helper is **commercial, proprietary software** — licensed, not sold.
+Copyright © 2026 Steven Faria. All rights reserved.
+
+Use requires a valid licence. Redistribution, resale, rental and reverse
+engineering are not permitted. The full terms are supplied with the software.
+
+> **Important:** GDS Helper is not a live Amadeus/GDS connection. The entries it
+> generates are suggestions built from third-party data and must be verified by a
+> qualified travel professional in the live GDS before booking or ticketing.
+
+### Built with AI
+
+**The source code of GDS Helper was written entirely by artificial
+intelligence**, under the specification, direction, review and testing of Steven
+Faria, who defined its requirements, business rules and operating logic.
+
+The application itself contains **no AI system**: it runs no machine learning,
+generates no synthetic content, and makes no automated decisions about people.
+Under **Regulation (EU) 2024/1689 (the AI Act)** it is therefore not an "AI
+system" within the meaning of Article 3(1) — its results come from deterministic
+rules defined by a person (Recital 12) — so the Article 50 transparency
+obligations are not engaged, and this disclosure is made voluntarily.
+
 </details>
 
 <details>
@@ -106,5 +131,33 @@ Pode configurar o token mais tarde em **⚙ Definições → Configurar API Duff
 - **Beta** — versões de pré-lançamento (marcadas como *pre-release*) para testes.
 
 A integridade de cada descarga é verificada (SHA-256) antes da instalação.
+
+### Licença
+
+O GDS Helper é **software comercial e proprietário** — licenciado, não vendido.
+Copyright © 2026 Steven Faria. Todos os direitos reservados.
+
+A utilização exige uma licença válida. Não são permitidas a redistribuição, a
+revenda, o aluguer nem a engenharia inversa. Os termos completos acompanham a
+aplicação.
+
+> **Importante:** o GDS Helper não é uma ligação em direto ao Amadeus/GDS. As
+> entradas geradas são sugestões construídas a partir de dados de terceiros e têm
+> de ser verificadas por um profissional de viagens qualificado no GDS antes de
+> reservar ou emitir.
+
+### Feito com IA
+
+**O código-fonte do GDS Helper foi escrito inteiramente por inteligência
+artificial**, sob a especificação, direção, revisão e testes de Steven Faria, que
+definiu os requisitos, as regras de negócio e a lógica de funcionamento.
+
+A aplicação em si **não contém nenhum sistema de IA**: não executa aprendizagem
+automática, não gera conteúdo sintético e não toma decisões automatizadas sobre
+pessoas. Ao abrigo do **Regulamento (UE) 2024/1689 (Regulamento da IA)** não é,
+por isso, um «sistema de IA» na aceção do artigo 3.º, n.º 1 — os resultados
+provêm de regras determinísticas definidas por uma pessoa (considerando 12) —
+pelo que as obrigações de transparência do artigo 50.º não são aplicáveis, sendo
+esta divulgação voluntária.
 
 </details>
